@@ -1,2 +1,2 @@
-# CHATTERBOX
+# MeetPoint
 A full stack video conferencing web application.
